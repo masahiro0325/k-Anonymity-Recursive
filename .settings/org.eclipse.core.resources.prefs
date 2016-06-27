@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/tokumei/AnonymityAttribute.java=UTF-8
+encoding//src/tokumei/AnonymityDataSet.java=MS932
+encoding//src/tokumei/DataReader.java=MS932
+encoding//src/tokumei/DataWriter.java=MS932
+encoding//src/tokumei/FullDomainAnonymity.java=MS932
+encoding//src/tokumei/RecursiveKAnonymity.java=MS932
